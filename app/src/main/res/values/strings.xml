@@ -9,4 +9,5 @@
     <string name="search">Поиск</string>
     <string name="all_models">Все модели</string>
     <string name="menu">Меню</string>
+    <string name="not_found">Ничего не найдено</string>
 </resources>

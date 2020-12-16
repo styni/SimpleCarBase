@@ -63,6 +63,12 @@ class SearchFragment : BaseFragment() {
         val owner = viewLifecycleOwner
 
         binding?.viewModel?.result?.observe(owner, {
+            if (it.isNullOrEmpty()) {
+                binding?.tvNotFound?.visibility = View.VISIBLE
+            } else {
+                binding?.tvNotFound?.visibility = View.GONE
+            }
+
             (binding?.searchList?.adapter as SelectItemAdapter).setData(it as? ArrayList<Item>)
         })
     }
