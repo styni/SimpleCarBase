@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "5fd21b194ae6ad8f3efd0b96"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b92"
+  },
+  "Model": "THE 3",
+  "img": "bmw_320.jpg",
+  "gen": "G20",
+  "year": 2018,
+  "engines": [
+    "B47TU1",
+    "B48B20"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21b194ae6ad8f3efd0b97"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b92"
+  },
+  "Model": "THE 5",
+  "img": "bmw_520.jpg",
+  "gen": "G30",
+  "year": 2020,
+  "engines": [
+    "B47D20",
+    "B48B20"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21b194ae6ad8f3efd0b98"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b92"
+  },
+  "Model": "X3",
+  "img": "bmw_x3.jpg",
+  "gen": "G01",
+  "year": 2017,
+  "engines": [
+    "B47D20",
+    "B48B20"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21b194ae6ad8f3efd0b99"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b92"
+  },
+  "Model": "X6",
+  "img": "bmw_x6.jpg",
+  "gen": "G06",
+  "year": 2019,
+  "engines": [
+    "B57D30",
+    "B58B30N"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21d654ae6ad8f3efd0b9a"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b93"
+  },
+  "Model": "RS3",
+  "img": "rs3.jpg",
+  "gen": "8VA",
+  "year": 2017,
+  "engines": "DAZA"
+},{
+  "_id": {
+    "$oid": "5fd21d654ae6ad8f3efd0b9b"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b93"
+  },
+  "Model": "A5",
+  "img": "a5.jpg",
+  "gen": "F53",
+  "year": 2016,
+  "engines": [
+    "DETA",
+    "CYRB"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21d654ae6ad8f3efd0b9c"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b93"
+  },
+  "Model": "Q8",
+  "img": "q8.jpg",
+  "gen": "4MN",
+  "year": 2018,
+  "engines": [
+    "CVMD",
+    "DCBD"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21d654ae6ad8f3efd0b9d"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b93"
+  },
+  "Model": "R8",
+  "img": "R8.jpg",
+  "gen": "4S3",
+  "year": 2015,
+  "engines": "CTPA"
+},{
+  "_id": {
+    "$oid": "5fd21ea84ae6ad8f3efd0b9e"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b94"
+  },
+  "Model": "ceed",
+  "img": "ceed.jpg",
+  "gen": "CD",
+  "year": 2018,
+  "engines": [
+    "G4LD",
+    "G4LC",
+    "G4FC"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21ea84ae6ad8f3efd0b9f"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b94"
+  },
+  "Model": "Mohave",
+  "img": "mohave.jpg",
+  "gen": "HM",
+  "year": 2020,
+  "engines": "D6EB"
+},{
+  "_id": {
+    "$oid": "5fd21ea84ae6ad8f3efd0ba0"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b94"
+  },
+  "Model": "RIO",
+  "img": "rio.jpg",
+  "gen": "FB",
+  "year": 2020,
+  "engines": [
+    "OVOSH",
+    "CKYKA"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21ea84ae6ad8f3efd0ba1"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b94"
+  },
+  "Model": "Cerato",
+  "img": "cerato.jpg",
+  "gen": "BD",
+  "year": 2018,
+  "engines": "G4FG"
+},{
+  "_id": {
+    "$oid": "5fd21fdd4ae6ad8f3efd0ba2"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b95"
+  },
+  "Model": "Golf R",
+  "img": "golf_r.jpg",
+  "gen": "5G1",
+  "year": 2018,
+  "engines": [
+    "CJXG",
+    "RATATA",
+    "DNUE"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21fdd4ae6ad8f3efd0ba3"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b95"
+  },
+  "Model": "Tiguan",
+  "img": "tiguan.jpg",
+  "gen": "AD1",
+  "year": 2020,
+  "engines": "CHHB"
+},{
+  "_id": {
+    "$oid": "5fd21fdd4ae6ad8f3efd0ba4"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b95"
+  },
+  "Model": "Touareg",
+  "img": "touareg.jpg",
+  "gen": "CR7",
+  "year": 2020,
+  "engines": [
+    "CYRC",
+    "CVMD"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd21fdd4ae6ad8f3efd0ba5"
+  },
+  "Brand": {
+    "$oid": "5fd214e54ae6ad8f3efd0b95"
+  },
+  "Model": "Amarok",
+  "img": "amarok.jpg",
+  "gen": [
+    "2HB",
+    "2HA"
+  ],
+  "year": 2018,
+  "engines": "CNFB"
+}]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/search"
+            android:title="@string/search"
+            android:icon="@drawable/ic_baseline_search_24"
+
+            />
+
+        <item
+            android:id="@+id/all_cars"
+            android:title="@string/all_models"
+            android:icon="@drawable/ic_baseline_directions_car_24"
+            />
+
+    </group>
+
+</menu>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/selectBrandFragment">
+
+    <fragment
+        android:id="@+id/selectBrandFragment"
+        android:name="com.styni.simplecarbase.ui.select_brand.SelectBrandFragment"
+        android:label="SelectBrandFragment" >
+        <action
+            android:id="@+id/action_selectBrandFragment_to_selectModelFragment"
+            app:destination="@id/selectModelFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectModelFragment"
+        android:name="com.styni.simplecarbase.ui.select_model.SelectModelFragment"
+        android:label="SelectModelFragment" >
+        <argument
+            android:name="brandId"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_selectModelFragment_to_detailModelFragment"
+            app:destination="@id/detailModelFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailModelFragment"
+        android:name="com.styni.simplecarbase.ui.detail_model.DetailModelFragment"
+        android:label="DetailModelFragment" />
+    <activity
+        android:id="@+id/appActivity"
+        android:name="com.styni.simplecarbase.ui.global.AppActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.styni.simplecarbase.ui.search.SearchFragment"
+        android:label="SearchFragment" />
+</navigation>

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5fd214e54ae6ad8f3efd0b92"
+  },
+  "Brand": "BMW",
+  "logo": "bmw_logo.png"
+},{
+  "_id": {
+    "$oid": "5fd214e54ae6ad8f3efd0b93"
+  },
+  "Brand": "Audi",
+  "logo": "audi_logo.png"
+},{
+  "_id": {
+    "$oid": "5fd214e54ae6ad8f3efd0b94"
+  },
+  "Brand": "KIA",
+  "logo": "kia_logo.png"
+},{
+  "_id": {
+    "$oid": "5fd214e54ae6ad8f3efd0b95"
+  },
+  "Brand": "Volkswagen",
+  "logo": "vw_logo.png"
+}]
